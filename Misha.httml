@@ -1,0 +1,22 @@
+<html>
+            <body>
+                <title>
+                </title>
+            <head>
+                <header>
+                    <h1>olx магазин топовые товары</h1>
+            </header>
+            </head>
+                
+            <main>
+                <img src="https://ireland.apollo.olxcdn.com/v1/files/uv8s7f8jut0n2-UA/image;s=1000x700" width="500px"r>
+                <p>мясо корейка ,жаль дашу</p>
+                <img src="https://ireland.apollo.olxcdn.com/v1/files/dqc8zcin5jxh3-UA/image;s=1000x700"width="500px">
+                <p>сувенир, атака титанов 5 сезон</p>
+                <img src="https://ireland.apollo.olxcdn.com/v1/files/83nlchs6t2cl2-UA/image;s=1000x700"width="500px">
+            <p>собака скалы</p>
+            </main>
+            <footer>
+            </footer>
+            </body>
+</html>
